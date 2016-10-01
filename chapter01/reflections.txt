@@ -1,0 +1,3 @@
+Reflection Notes from Chapter 1 of Head First C Programming Textbook
+Ronnie Wong
+
